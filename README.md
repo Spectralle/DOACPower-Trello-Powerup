@@ -2,6 +2,11 @@
 
 An in-development Trello PowerUp made for use by the Devonport OAC.
 
+# Current Features
+- Description Snippets: Show a small snippet of Card descriptions on the front of the Card.
+
+---
+
 Head here to manage the powerup Trello integration:
 
 👉  [https://trello.com/power-ups/admin](https://trello.com/power-ups/admin)
